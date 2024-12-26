@@ -37,6 +37,5 @@ We take security vulnerabilities seriously. If you discover a vulnerability in o
    - We ask that you do not publicly disclose the vulnerability until we have had a chance to address it.
    - If the vulnerability is accepted, we will credit you in our security advisory.
 
-We appreciate your efforts to keep our project secure. If you have any questions or need further assistance, please reach out to us at security@yourproject.com.
+We appreciate your efforts to keep our project secure. If you have any questions or need further assistance, please reach out to us at security@bms.com.
 
-Feel free to customize it further to fit your specific needs! If you need any more help or want to add something else, just let me know!
